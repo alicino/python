@@ -1,6 +1,7 @@
 '''
 Um programa que faça o computador jogar Jokenpô com você
 Nível fácil (didático e básico)
+PT-BR version
 '''
 import random
 
